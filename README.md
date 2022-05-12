@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-我的博客：https://lijunyi2.github.io/blog/
+😄 嗨喽，这是我的GiuHub主页。
+
+👯 一枚主职Java，副业前端的软件开发者。
+
+🔭 我的博客：https://lijunyi2.github.io/blog/
+
 <!--
 **LiJunYi2/LiJunYi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
