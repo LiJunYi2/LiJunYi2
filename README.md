@@ -5,8 +5,10 @@
 👯 一枚主职Java，副业前端的软件开发者。
 
 🔭 我的博客：https://lijunyi2.github.io/blog/
+
 💬 我的博客：http://182.61.15.43:8081/blog/
-💬 域名访问：http://www.lijunyi.xyz/blog/  域名还在备案，暂时无法进入
+
+⚡ 域名访问：http://www.lijunyi.xyz/blog/  域名还在备案，暂时无法进入
 
 <!--
 **LiJunYi2/LiJunYi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
