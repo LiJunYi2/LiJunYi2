@@ -6,7 +6,6 @@
 
 🔭 我的博客：https://lijunyi.xyz
 
-💬 我的博客：https://lijunyi2.github.io/blog/
 
 
 <!--
