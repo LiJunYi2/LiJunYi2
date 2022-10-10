@@ -6,7 +6,7 @@
 
 🔭 我的博客：https://lijunyi.xyz
 
-🔭 [科学上网](https://sockboom.cool/auth/register?affid=243907)
+🔭 [科学上网](https://sockboom.bar/auth/register?affid=243907)
 
 
 
