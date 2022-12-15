@@ -6,6 +6,8 @@
 
 🔭 我的博客：https://lijunyi.xyz
 
+🔭 我的博客(Vercel发布，更新方便)：https://github.lijunyi.xyz/
+
 🔭 [科学上网](https://sockboom.bar/auth/register?affid=243907)
 
 
