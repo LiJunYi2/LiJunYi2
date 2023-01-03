@@ -10,6 +10,8 @@
 
 🔭 [科学上网](https://sockboom.bar/auth/register?affid=243907)
 
+🎇 Gitee主页：https://gitee.com/lijunyi622
+
 
 
 <!--
