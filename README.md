@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/LiJunYi2/QuantumultX/main/images/gif3.gif" width="480"/>
+<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="480"/>
 
 ### I'm LI JY
 
