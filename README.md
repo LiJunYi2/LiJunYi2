@@ -21,7 +21,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiJunYi2&repo=navicat-keygen-16V&theme=transparent)](https://github.com/LiJunYi2/navicat-keygen-16V)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiJunYi2&repo=boot-logging-plugin&theme=transparent)](https://github.com/LiJunYi2/boot-logging-plugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiJunYi2&repo=log-tracing-spring-boot&theme=transparent)](https://github.com/LiJunYi2/log-tracing-spring-boot)
 
 # About My Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiJunYi2&show_icons=true&theme=flag-india&hide=contribs,prs)
