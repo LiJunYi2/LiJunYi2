@@ -14,6 +14,7 @@
 - ✈️ [科学上网](https://sockboom.bar/auth/register?affid=243907)
 
 - 🎗️ Gitee主页：https://gitee.com/lijunyi622
+- 🧱 我的在线商铺： [A佳技术商铺](https://agood.huoyuan.cf/a/b/c/) 大量各种平台VIP以及ChatGpt成品号
 
 <br/>
 
