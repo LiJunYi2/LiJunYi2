@@ -15,6 +15,11 @@
 
 - 🎗️ Gitee主页：https://gitee.com/lijunyi622
 - 🧱 我的在线商铺： [A佳技术商铺](https://agood.huoyuan.cf/a/b/c/) 大量各种平台VIP以及ChatGpt成品号
+- 各流量卡：[流量卡商城](https://sourl.cn/qRZ9XJ)
+- 我的公众号，欢迎关注
+  
+  <img width="384" alt="image" src="https://github.com/LiJunYi2/LiJunYi2/assets/40384503/2d1eda2f-a1af-4d8f-892a-22250e812a3f">
+
 
 <br/>
 
