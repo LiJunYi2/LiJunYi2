@@ -12,6 +12,7 @@
 - 😏 [博客地址②](https://github.lijunyi.xyz/) 由Vercel发布，更新更快
 
 - ✈️ [科学上网](https://sockboom.online/auth/register?affid=243907)
+- 🤓[个人发布页站点](https://ajjs.lijunyi.xyz/)
 
 - 🎗️ Gitee主页：https://gitee.com/lijunyi622
   
