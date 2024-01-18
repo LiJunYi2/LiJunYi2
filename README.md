@@ -22,7 +22,7 @@
 ## 微信红包封面及多开微商助手在线商铺：[微信红包封面](http://ajjs.qwet.site/dsw/?cid=255) 。如果无法访问请点击[地址2](http://ajjs.xxnn.xyz/)
 
 
-## 免费领取大流量卡：[免费领取大流量卡](https://sourl.cn/tNHdry)
+## 免费领取大流量卡：[免费领取大流量卡](http://mtw.so/5x8UrP)
 
 
 <br/>
