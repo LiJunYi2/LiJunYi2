@@ -11,7 +11,8 @@
 
 - 😏 [博客地址②](https://github.lijunyi.xyz/) 由Vercel发布，更新更快
 
-- ✈️ [科学上网](https://sockboom.boo/auth/register?affid=243907)
+- ✈️ [科学上网](https://98kjc.vip/#/register?code=kd9SVuaZ)
+- ✈️[skyboard机场](https://skyboard.top/#/?code=MAHouEcA)
   
 - 🤓[个人发布页站点](https://ajjs.lijunyi.xyz/)
 
