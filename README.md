@@ -18,7 +18,7 @@
 
 - 🎗️ Gitee主页：https://gitee.com/lijunyi622
   
-## 我的在线商铺： [在线商铺](https://agood.huoyuan.cf/a/b/c/) 各平台VIP以及ChatGpt成品号
+## 我的在线商铺： [在线商铺](https://agood.huoyuan.xyz/a/b/c/) 各平台VIP以及ChatGpt成品号
 
 ## 微信红包封面及多开微商助手在线商铺：[微信红包封面](http://ajjs.qwet.site/dsw/?cid=255) 。如果无法访问请点击[地址2](http://ajjs.xxnn.xyz/)
 
