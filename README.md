@@ -1,7 +1,6 @@
-### Hi there 👋
-<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="480"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+this+is+JY's+github+homepage.)](https://git.io/typing-svg)
 
-### I'm LI JY
+<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="480"/>
 
 <br/>
 
