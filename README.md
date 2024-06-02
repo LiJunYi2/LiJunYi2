@@ -16,7 +16,10 @@
 - 🤓[个人发布页站点](https://ajjs.lijunyi.xyz/)
 
 - 🎗️ Gitee主页：https://gitee.com/lijunyi622
-- `navicat17.x`指路：[gitlab](https://gitlab.com/ajiajishu/navicat-keygen-16V)
+
+## `navicat17.x`指路：
+
+部分原因删除了 github 仓库，新地址：[gitlab](https://gitlab.com/ajiajishu/navicat-keygen-16V)
   
 ## 我的在线商铺： [在线商铺](https://agood.huoyuan.xyz/a/b/c/) 各平台VIP以及ChatGpt成品号
 
