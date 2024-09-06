@@ -13,7 +13,7 @@
 - ✈️ [科学上网](https://98kjc.vip/#/register?code=kd9SVuaZ)
 - ✈️[skyboard机场](https://skyboard.top/#/?code=MAHouEcA)
   
-- 🤓[个人发布页站点](https://ajjs.lijunyi.xyz/)
+- 🤓[我的站点导航页](https://home.bilivo.top/)
 
 - 🎗️ Gitee主页：https://gitee.com/lijunyi622
 
