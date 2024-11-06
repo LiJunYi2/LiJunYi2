@@ -22,7 +22,7 @@
 部分原因删除了 github 仓库，新地址：[gitlab](https://gitlab.com/ajiajishu/navicat-keygen-16V)
 
 ## docker 加速镜像
-自建 docker 加速镜像 ，欢迎使用：https://docker.211678.top/
+自建 docker 加速镜像 ，欢迎使用：`https://hub.211678.top` 。原加速镜像：`https://docker.211678.top/` 被墙了，已经无法使用。及时更换最新地址。
   
 ## 我的在线商铺： [在线商铺](https://agood.huoyuan.xyz/a/b/c/) 各平台VIP以及ChatGpt成品号
 
