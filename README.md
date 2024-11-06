@@ -10,8 +10,8 @@
 
 - 😏 [博客地址②](https://github.lijunyi.xyz/) 由Vercel发布，更新更快
 
-- ✈️ [科学上网](https://98kjc.vip/#/register?code=kd9SVuaZ)
-- ✈️[skyboard机场](https://skyboard.top/#/?code=MAHouEcA)
+- ✈️ [98K 机场](https://xn--98k773462-si5p512l151acg5f.98kjc.com/#/register?code=kd9SVuaZ)
+- ✈️[skyboard机场](https://cloud.skyboard.top/zh/#/auth/signup;referral=MAHouEcA)
   
 - 🤓[我的站点导航页](https://home.bilivo.top/)
 
@@ -25,9 +25,6 @@
 自建 docker 加速镜像 ，欢迎使用：`https://hub.211678.top` 。原加速镜像：`https://docker.211678.top/` 被墙了，已经无法使用。及时更换最新地址。
   
 ## 我的在线商铺： [在线商铺](https://agood.huoyuan.xyz/a/b/c/) 各平台VIP以及ChatGpt成品号
-
-## 微信红包封面及多开微商助手在线商铺：[微信红包封面](http://ajjs.qwet.site/dsw/?cid=255) 。如果无法访问请点击[地址2](http://ajjs.xxnn.xyz/)
-
 
 ## 免费领取大流量卡：[免费领取大流量卡](http://mtw.so/5x8UrP)
 
