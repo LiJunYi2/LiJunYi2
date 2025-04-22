@@ -6,27 +6,22 @@
 
 - 🍒 A main job Java, side job front-end software developer
 
-- 😃 [点这访问我的博客](https://lijunyi.xyz)
+- 😃 [点这访问我的博客](https://blog.bilivo.top)
 
 - 😏 [博客地址②](https://github.lijunyi.xyz/) 由Vercel发布，更新更快
 
-- ✈️ [98K 机场](https://xn--98k773462-si5p512l151acg5f.98kjc.com/#/register?code=kd9SVuaZ)
-- ✈️[skyboard机场](https://cloud.skyboard.top/zh/#/auth/signup;referral=MAHouEcA)
+- ✈️ [机场推荐](https://blog.bilivo.top/article/jichang)
   
 - 🤓[我的站点导航页](https://home.bilivo.top/)
 
-- 🎗️ Gitee主页：https://gitee.com/lijunyi622
 
 ## navicat17.x指路：
 
 部分原因删除了 github 仓库，新地址：[gitlab](https://gitlab.com/ajiajishu/navicat-keygen-16V)
-
-## docker 加速镜像
-自建 docker 加速镜像 ，欢迎使用：`https://hub.211678.top` 。原加速镜像：`https://docker.211678.top/` 被墙了，已经无法使用。及时更换最新地址。
   
 ## 我的在线商铺： [在线商铺](https://agood.huoyuan.xyz/a/b/c/) 各平台VIP以及ChatGpt成品号
 
-## 免费领取大流量卡：[免费领取大流量卡](http://mtw.so/5x8UrP)
+## 免费领取大流量卡：[免费领取大流量卡](https://simhaoka.com/phone/index?id=157ABC6A88A7DA43B250149A2F2BA38F)
 
 
 <br/>
